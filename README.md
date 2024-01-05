@@ -4,7 +4,8 @@
 <!-- Add a circular profile image -->
 <img src="https://your-profile-image-url" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
 
-# Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://www.wallpaperflare.com/1920x1080-px-anarchy-computer-hacker-hacking-internet-wallpaper-sthpq)) My name is Abhishek Singh
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abhishek Singh
+) My name is Abhishek Singh
 ======================================================================================================================================
 
 Flutter, Android, Web developer, Competitive coder, and a learner...
