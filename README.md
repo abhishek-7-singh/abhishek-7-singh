@@ -9,7 +9,7 @@
 
 # 🔥 Abhishek Singh | Tech Enthusiast 🚀
 ## Vellore Institute of Technology, Chennai             2021-2026
-##M.tech Integrated in Software Engineering
+## M.tech Integrated in Software Engineering
 **Flutter | Android | Web | AI/ML | Data Structures and Algorithms**  
 
 ---
