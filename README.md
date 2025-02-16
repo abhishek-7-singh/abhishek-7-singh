@@ -1,12 +1,16 @@
 <!-- Background Image -->
 <div align="center">
-  <img src="https://drive.google.com/file/d/1zVVYqJYnIwuHDq4bM4rPSF8CO1s09dM1/view?usp=drive_link" alt="Banner" width="100%" />
+  <img src="https://drive.google.com/uc?export=view&id=1IrxSaNFTAy_LcBPFbYv32nH3lViv0AHb" 
+       alt="Banner" 
+       style="width:100%; height:250px; object-fit:cover;" />
 </div>
 
 ---
 
-# 🔥 Abhishek Singh | Tech Enthusiast 🚀  
-**Flutter | Android | Web | AI/ML | Competitive Coder**  
+# 🔥 Abhishek Singh | Tech Enthusiast 🚀
+## Vellore Institute of Technology, Chennai             2021-2026
+##M.tech Integrated in Software Engineering
+**Flutter | Android | Web | AI/ML | Data Structures and Algorithms**  
 
 ---
 
@@ -23,7 +27,7 @@
 ## 🚀 Tech Stack  
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,js,ts,html,css,react,nextjs,angular,nodejs,express,mongodb,mysql,firebase,flask,aws,gcp,docker,linux,git,arduino" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,flask,docker,linux,git,arduino" />
 </div>  
 
 ---
@@ -48,28 +52,23 @@
 
 ---
 
-## 🌎 Let's Connect!  
+## 📈 Data Insights  
 
+### 📊 **GitHub Stats**  
 <p align="center">
-  <a href="https://github.com/abhishek-7-singh">
-    <img src="https://img.shields.io/github/followers/abhishek-7-singh?logo=github&style=for-the-badge" />
-  </a>  
-  <a href="https://linkedin.com/in/abhishek-singh-052b24220">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>  
-  <a href="https://x.com/Abhishek_28_9">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
-  </a>  
-</p>  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-7-singh&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-7-singh&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-7-singh&theme=radical" height="165" />
-</p>  
+</p> 
+
+### 🌡️ **Heatmap Contribution Graph**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-7-singh&theme=tokyo-night" />
+</p>
+
+### 📈 **Top Languages Used**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-7-singh&layout=compact&theme=tokyonight" />
+</p>   
 
 ---
 
@@ -97,4 +96,16 @@
 
 ---
 
-  
+## 🌎 Let's Connect!  
+
+<p align="center">
+  <a href="https://github.com/abhishek-7-singh">
+    <img src="https://img.shields.io/github/followers/abhishek-7-singh?logo=github&style=for-the-badge&color=00FFFF" />
+  </a>  
+  <a href="https://linkedin.com/in/abhishek-singh-052b24220">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=00FFFF" />
+  </a>  
+  <a href="https://x.com/Abhishek_28_9">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&color=00FFFF" />
+  </a>  
+</p>  
