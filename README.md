@@ -73,9 +73,8 @@
 ---
 
 ## 🏆 Achievements  
-
-🎯 **Cognizant Offer:** Secured a **5.5 LPA package** at Cognizant  
-🏆 **Competitive Coding:** Solved **500+ problems** on Leetcode & Codeforces  
+  
+🏆 **Competitive Coding:** Solving ** Problems** on Leetcode & Codeforces  
 🎓 **VIT Chennai:** Pursuing **MTech Integrated (BTech + MTech)**  
 
 ---
