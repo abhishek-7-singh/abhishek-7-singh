@@ -17,6 +17,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer+%F0%9F%9A%80;I+love+creating+innovative+solutions+%F0%9F%92%A1;Always+learning+new+technologies+%F0%9F%93%9A;Let's+build+something+amazing+together!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
 ---
 
