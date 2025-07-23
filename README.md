@@ -1,6 +1,8 @@
-# 🌟 Welcome to My Digital Universe 🌟
+ # 🌟 Welcome 🌟
 
 <div align="center">
+
+
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Abhishek%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=51&descAlign=50)
 
